@@ -318,3 +318,36 @@ Received Import Request.
 Start importing Assets/Handpainted_Grass_and_Ground_Textures/Demo/terrain_layers/Grass_lighted_down.terrainlayer using Guid(bd09f0681f28b484fb0610ef52f7254c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbde55ef2d0138e7e5ad0ff02277b35c') in 0.015373 seconds
   Import took 0.019025 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 757.334815 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(305e1a72a6da11c49adc9aab89bbdfe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(305e1a72a6da11c49adc9aab89bbdfe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4489fafe7c00ff27d65f65d31a1f2f60') in 0.030030 seconds
+  Import took 0.033752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.148798 seconds.
+  path: Assets/Islands/NewLayer.terrainlayer
+  artifactKey: Guid(f3a3e1cf9176dfd40b939775ffda734d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Islands/NewLayer.terrainlayer using Guid(f3a3e1cf9176dfd40b939775ffda734d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba808ede9ad7c2bab4da0adb3af8ec5c') in 0.025622 seconds
+  Import took 0.030047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.469551 seconds.
+  path: Assets/Islands/StarterIsland.fbx
+  artifactKey: Guid(242aed7cb98df9a47a8df5eae7a41b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Islands/StarterIsland.fbx using Guid(242aed7cb98df9a47a8df5eae7a41b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b181bfabeaa5a1ff070f80a144b38379') in 0.284758 seconds
+  Import took 0.289454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 401.625032 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(305e1a72a6da11c49adc9aab89bbdfe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(305e1a72a6da11c49adc9aab89bbdfe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89947d2027e5a9b99dec438d4b227d2') in 0.047898 seconds
+  Import took 0.054887 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
