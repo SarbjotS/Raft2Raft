@@ -126,3 +126,68 @@ Received Import Request.
 Start importing Assets/Rafts/StarterIsland.fbx using Guid(3fc01c0e566d22b409a388f3653ddf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03901d37226a3534cf888db563ee7980') in 0.065306 seconds
   Import took 0.069584 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 7095.397699 seconds.
+  path: Assets/Rafts/Pier.fbx
+  artifactKey: Guid(09b679a7ad4277d49ace825998969e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rafts/Pier.fbx using Guid(09b679a7ad4277d49ace825998969e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996a4b83553c15a72bd6569eba19cf6c') in 0.109285 seconds
+  Import took 0.112869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.540602 seconds.
+  path: Assets/Hand Painted Seamless Wood Texture/Materials/Wood2.mat
+  artifactKey: Guid(f8ee6106d1361c24bafdee024e4c1b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand Painted Seamless Wood Texture/Materials/Wood2.mat using Guid(f8ee6106d1361c24bafdee024e4c1b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9e559c1d1a394299e3ddc9ed41ef9e') in 0.081511 seconds
+  Import took 0.084978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Hand Painted Seamless Wood Texture/Materials/Wood3.mat
+  artifactKey: Guid(f11ec08fa9b774c4d87712ab796f89e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand Painted Seamless Wood Texture/Materials/Wood3.mat using Guid(f11ec08fa9b774c4d87712ab796f89e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a434b129e1337bf0614fd41fcaaaf45') in 0.032648 seconds
+  Import took 0.035564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.723162 seconds.
+  path: Assets/Hand Painted Seamless Wood Texture/Materials/New Material.mat
+  artifactKey: Guid(8788ebbc9a57dc74680cd02636fedca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand Painted Seamless Wood Texture/Materials/New Material.mat using Guid(8788ebbc9a57dc74680cd02636fedca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ba76725452ee18443a37fe5251ca20') in 0.019392 seconds
+  Import took 0.023162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2264.684958 seconds.
+  path: Assets/Hand Painted Seamless Wood Texture/Materials/M_Wood2.mat
+  artifactKey: Guid(3e3fe7d08624f594bb8e96487091bd1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand Painted Seamless Wood Texture/Materials/M_Wood2.mat using Guid(3e3fe7d08624f594bb8e96487091bd1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30da7e112f0df7fe6bcec038f2feb2ed') in 0.039194 seconds
+  Import took 0.043600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Hand Painted Seamless Wood Texture/Materials/New Material.mat
+  artifactKey: Guid(8788ebbc9a57dc74680cd02636fedca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand Painted Seamless Wood Texture/Materials/New Material.mat using Guid(8788ebbc9a57dc74680cd02636fedca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b97721cc5a5d783892cd21f8342903d') in 0.029356 seconds
+  Import took 0.032928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Hand Painted Seamless Wood Texture/Materials/Wood2.mat
+  artifactKey: Guid(f8ee6106d1361c24bafdee024e4c1b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand Painted Seamless Wood Texture/Materials/Wood2.mat using Guid(f8ee6106d1361c24bafdee024e4c1b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebb2c884a046f8deeb8aa6dc20da48a') in 0.038347 seconds
+  Import took 0.042063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Hand Painted Seamless Wood Texture/Materials/M_Wood3.mat
+  artifactKey: Guid(df52f4d0325777d49bbe6e566536e284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand Painted Seamless Wood Texture/Materials/M_Wood3.mat using Guid(df52f4d0325777d49bbe6e566536e284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1566144347e5a4f228b1283a534f082a') in 0.028587 seconds
+  Import took 0.032572 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
