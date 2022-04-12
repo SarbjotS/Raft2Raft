@@ -134,3 +134,36 @@ Received Import Request.
 Start importing Assets/Dino/Dinosaur2.fbx using Guid(e88ba8636c62f514ea8d4941dd3dc36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f55ff3f1181f08e829869a80feb63a') in 0.172937 seconds
   Import took 0.180135 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1937.071816 seconds.
+  path: Assets/Dino/SecondDino.fbx
+  artifactKey: Guid(b9c085a2096f78e428578999c124b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dino/SecondDino.fbx using Guid(b9c085a2096f78e428578999c124b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd274c331a1afd60b6e68c1937f8bab') in 1.433693 seconds
+  Import took 1.444417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.427985 seconds.
+  path: Assets/Dino/SecondDino.fbx
+  artifactKey: Guid(b9c085a2096f78e428578999c124b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dino/SecondDino.fbx using Guid(b9c085a2096f78e428578999c124b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11382ca1d84651f3ce10fdd8dae8853c') in 0.076825 seconds
+  Import took 0.080140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 318.998386 seconds.
+  path: Assets/Dino/SecondDino.fbx
+  artifactKey: Guid(b9c085a2096f78e428578999c124b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dino/SecondDino.fbx using Guid(b9c085a2096f78e428578999c124b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bd1f6815a4d371391ba8fbd895cbec') in 0.040027 seconds
+  Import took 0.043788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000832 seconds.
+  path: Assets/Dino/SecondDino.fbx
+  artifactKey: Guid(b9c085a2096f78e428578999c124b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dino/SecondDino.fbx using Guid(b9c085a2096f78e428578999c124b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bd1f6815a4d371391ba8fbd895cbec') in 0.051956 seconds
+  Import took 0.055506 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
